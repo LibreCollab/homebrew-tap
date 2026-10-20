@@ -1,8 +1,8 @@
 class Orkestar < Formula
   desc "Persistent terminal runtime for coordinating coding agents"
   homepage "https://github.com/LibreCollab/orkestar"
-  url "https://github.com/LibreCollab/orkestar/archive/refs/tags/v0.5.1.tar.gz"
-  sha256 "2269c32edec8f84ce945f4350be417d0c40417e9bab2f9cf6a05775f566a8f22"
+  url "https://github.com/LibreCollab/orkestar/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "5be1d1c91ca641604401b41e2d2b266c948cfb4fe58d90fca88c6d36af175033"
   license "MIT"
   head "https://github.com/LibreCollab/orkestar.git", branch: "main"
 
